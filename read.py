@@ -1,6 +1,6 @@
 data = []
 count = 0
-with open('reviews.txt', 'r') as file:
+with open('C:/Users/Shen/Desktop/reviews.txt', 'r') as file:
     for line in file:
         data.append(line)
         count += 1 
